@@ -1,5 +1,6 @@
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { FaTwitch } from 'react-icons/fa';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -30,6 +31,9 @@ const Footer = () => {
         </SocialIcons>
         <SocialIcons href="https://www.instagram.com/barrelroll.vtg/">
           <AiFillInstagram size="3rem" />
+        </SocialIcons>
+      <SocialIcons href="https://www.twitch.tv/gigascott">
+          <FaTwitch size="3rem" />
         </SocialIcons>
       </SocialContainer>
     </SocialIconsContainer>
