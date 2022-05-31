@@ -46,7 +46,9 @@ const Timeline = () => {
 <Section id="about">
   <SectionTitle>About Me</SectionTitle>
   <SectionText>
-    This is where I put my about Me
+  Hello! My name is Scott Gamit. My hobbies are thrifting, eating pizza, and playing video games.
+  All in that order. My cat Elliot is my best friend. After this bootcamp, I wish to work for Spotify or possibly any video game dev.
+  My current motto is "Someone's fears are not your fears." You are the best. Thanks for reading! 🙌🙌🙌
   </SectionText>
   {/* <CarouselContainer ref={carouselRef}>
 <>

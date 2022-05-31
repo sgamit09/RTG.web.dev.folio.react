@@ -10,12 +10,12 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br />
-        My Personal Portfolio
+        The Scott-folio
       </SectionTitle>
       <SectionText>
-        It's pizza time.
+       Where Perfection is Boring
       </SectionText>
-      <Button onClick={() => window.location = 'https://www.youtube.com/watch?v=6nTcdw7bVdc&ab_channel=KendrickLamar'}>Learn More</Button>
+      <Button onClick={() => window.open('https://docs.google.com/document/d/1vP7LNimtRn9JRcV4Gm4WeeF9B_KXYQ1C3XfH6DtZvpw/export?format=pdf')}>Journey So Far</Button>
     </LeftSection>
   </Section>
 );
