@@ -9,7 +9,8 @@ const BackgroundAnimation = () => (
     borderRadius: 100,
     padding: '20px'
   }} 
-    src="https://i.imgur.com/lgyWZYf.jpg" />
+    src="https://i.imgur.com/lgyWZYf.jpg" 
+    />
   // <div>
   //   <svg
   //     className="BgAnimation__svg"

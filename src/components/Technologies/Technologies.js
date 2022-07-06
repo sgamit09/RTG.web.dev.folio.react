@@ -14,6 +14,7 @@ const Technologies = () => (
         <ListContainer>Front-End</ListContainer>
         <ListParagraph>
         React <br />
+        Handlebars
         </ListParagraph>
       </ListItem>
       <ListItem>
@@ -21,7 +22,8 @@ const Technologies = () => (
         <ListContainer>Back-End</ListContainer>
         <ListParagraph>
         mySQL <br />
-       MongoDB
+       MongoDB <br />
+       GraphQL
         </ListParagraph>
       </ListItem>
       <ListItem>

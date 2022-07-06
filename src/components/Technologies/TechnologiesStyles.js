@@ -45,8 +45,9 @@ export const List = styled.ul`
   
   @media ${props => props.theme.breakpoints.sm}{
     display: flex;
+    justify-content: center
     flex-direction: column;
-    margin: 32px 0;
+    margin: 0 auto;
   }
 `
 
@@ -56,7 +57,7 @@ export const ListContainer = styled.div`
 
   @media ${props => props.theme.breakpoints.sm}{
     display: flex;
-    margin-left: 18px;
+    text-align:center;
   }
 `
 
@@ -94,6 +95,7 @@ export const ListParagraph = styled.p`
   @media ${props => props.theme.breakpoints.sm}{
     font-size: 14px;
     line-height: 22px;
+
   }
 `
 
@@ -109,7 +111,8 @@ export const ListItem = styled.li`
 @media ${props => props.theme.breakpoints.sm}{
   margin-bottom: 14px;
   max-width: 320px;
-  flex-direction: row;
+  flex-direction: column;
+  margin: 0 auto;
 }
 `
 
