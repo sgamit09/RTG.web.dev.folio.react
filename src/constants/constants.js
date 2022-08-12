@@ -19,12 +19,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Spoil This Movie 🍿🎥',
-    description: "Spoil This Movie is a website uses the OMDB API to search for movies and display the poster, title, and plot of the movie. Spoiler Alert!",
+    title: 'Depop Lister 👕💰',
+    description: "Cannot remember how you list your items on Depop? Try my Depop Lister App! Depop Lister is a React.js form to help you automate when you are listing a new item to sell. Enjoy and Happy Selling!",
       image: '/images/3.jpg',
-      tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://sgamit09.github.io/spoil.this.movie/',
-    visit: 'https://github.com/sgamit09/spoil.this.movie',
+      tags: ['HTML', 'CSS', 'React.js'],
+    source: 'https://depop-lister.herokuapp.com/',
+    visit: 'https://github.com/sgamit09/DePoppin.Off',
     id: 2,
   },
   {
