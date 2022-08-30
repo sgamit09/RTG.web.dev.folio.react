@@ -28,12 +28,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'J.A.T.E 📖✏️',
-    description: "Who are you talking to? It's J.A.T.E (Just Another Text Editor) from State Farm. What are you wearing JATE from State Farm? uhhh Webpack.",
+    title: 'JokesDotNet 🖥️😂',
+    description: "My First C# and .Net Project is a Programming Joke Application where the user can register and log-in, create, view, and update Jokes on the web.",
     image: '/images/4.jpg',
-    tags: ['HTML', 'CSS', 'Javascript','Webpack'],
-    source: 'https://jate-on-jate2.herokuapp.com/',
-    visit: 'https://github.com/sgamit09/JATE.from.State.Farm',
+    tags: ['HTML', 'CSS', 'C#','.NET'],
+    source: 'https://jokesdotnet.azurewebsites.net/',
+    visit: 'https://github.com/sgamit09/JokesDotNet',
     id: 3,
   },
 ];
